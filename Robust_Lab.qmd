@@ -11,6 +11,7 @@ execute:
 ## Instructions
 
 -   If you are fitting a model, display the model output in a neatly formatted table. (The `tidy` and `kable` functions can help!)
+-   Test 123
 
 -   If you are creating a plot, use clear labels for all axes, titles, etc.
 
